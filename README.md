@@ -3,6 +3,8 @@
 Una app desarrollada en **Flutter Web** que permite buscar superhéroes usando la API de [SuperheroAPI](https://superheroapi.com/). Diseñada como práctica de consumo de APIs, despliegue en GitHub, y manejo de errores reales en entornos web.
 
 ---
+NOTA: La app no esta desplegada en vercel por Errores de la API
+---
 
 ## 🚀 Características
 
